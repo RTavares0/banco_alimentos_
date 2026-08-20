@@ -35,7 +35,3 @@ A aplicação foi desenvolvida focando em **Inclusão Digital**, **Leveza** e **
 * **JavaScript (ES6 Vanilla):** Lógica de negócios, manipulação dinâmica do DOM, validações e controle de LocalStorage.
 
 ---
-
- Clone este repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
