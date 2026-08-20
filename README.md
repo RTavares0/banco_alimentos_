@@ -1,5 +1,10 @@
 # 🌾 Rio Grande Solidária
 
+## 📱 Como Executar o Projeto
+
+### Acesso Direto (GitHub Pages)
+Você pode testar a aplicação em execução diretamente pelo navegador: https://rtavares0.github.io/banco_alimentos_/
+
 > **Plataforma Web para Automação e Rastreabilidade do Inventário de Doações de Alimentos**
 
 O **Rio Grande Solidária** é um sistema web desenvolvido como projeto prático de **Atividade Extensionista II** no curso de **Análise e Desenvolvimento de Sistemas (UNINTER)**. A aplicação visa otimizar a comunicação e o fluxo logístico entre comércios doadores de alimentos e o **Banco de Alimentos de Rio Grande - RS**, combatendo o desperdício e a insegurança alimentar.
